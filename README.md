@@ -18,7 +18,7 @@ Before running the agent, ensure you have the following installed:
 Python 3.8+
 
 A local LLM runner compatible with GGUF (e.g., LM Studio, llama.cpp or Ollama)
-
+Download the model file from here: [pannagkv/icebreaker-v2](https://huggingface.co/pannagkv/icebreaker-v2)
 Required offensive security tools installed locally and accessible via your system's PATH (e.g., nmap, msfconsole).
 
 ## Usage
