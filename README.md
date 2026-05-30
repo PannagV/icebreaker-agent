@@ -1,3 +1,17 @@
+Suspend active development pending IP clarification
+
+Work on this project is suspended during internship period 
+pending written clarification from employer regarding 
+intellectual property ownership and scope of internship duties.
+
+Development will resume once:
+- Written confirmation is received that this project is outside 
+  the scope of internship IP assignment
+- Or employment relationship concludes
+
+Last active development: 30/05/2026
+Resume date: TBD
+
 # Icebreaker Agent
 Icebreaker is an open-source, autonomous penetration testing AI agent. Powered by a fine-tuned Qwen 2.5 7B model, it is designed to run entirely locally, bridging the gap between Large Language Model reasoning and active cybersecurity operations.
 
